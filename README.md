@@ -4,7 +4,7 @@ This code is meant to display the ratio of demand within a week. The point is th
 
 First part of code is taken from *Service Level and Coverage KPIs* script. Dataframe created with this script helps to build a bar chart for a specific product throughout a set number of weeks.
 
-![Bar chart screenshot](https://github.com/fedinb/Demand_Day_Weight/blob/main/DayWeight.png)
+![Bar chart screenshot]()
 
 This bar chart can be helpful in at least 2 cases.
 
