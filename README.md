@@ -10,7 +10,7 @@ This bar chart can be helpful in at least 2 cases.
 
 With VMI-driven replenishment this chart can help supply planners or customer service specialists to plan deliveries for retailers. Based on the chart they can decide that it's better not to deliver product above on Thursday (day with lowest sales). However, they need to prepare for Saturday - day with biggest sales. That's why, delivery by the end of Friday would be the best option.
 
-If retailer is deals with replenishment tasks on their own, they can also use this bar chart to track sales throughout the week and place orders with a more suitable delivery date.
+If retailer deals with replenishment tasks on their own, they can also use this bar chart to track sales throughout the week and place orders with a more suitable delivery date.
 
 In both cases such a data-driven replenishment can help responsible specialists to improve stock coverage.
 
